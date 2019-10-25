@@ -1,0 +1,7 @@
+matplotplib
+numpy
+PIL
+Keras
+scipy
+ot
+tensorflow==1.15
